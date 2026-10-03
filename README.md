@@ -9,7 +9,7 @@ Personal portfolio website showcasing my skills, education, achievements, certif
 
 ## Live Website
 
-[Visit Portfolio](YOUR_GITHUB_PAGES_URL)
+[Visit Portfolio](https://niteshjan06.github.io/nitesh-portfolio/)
 
 ## Author
 
